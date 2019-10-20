@@ -1,4 +1,4 @@
-# codeprojx
+# In this repo, I highlight the different codes that I create and use.
 
 Hello all!
 
